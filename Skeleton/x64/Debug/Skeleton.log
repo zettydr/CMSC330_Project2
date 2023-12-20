@@ -1,0 +1,8 @@
+﻿  operand.cpp
+  parse.cpp
+  project2.cpp
+  subexpression.cpp
+  symboltable.cpp
+  variable.cpp
+  Generating Code...
+  Skeleton.vcxproj -> C:\Users\Admin\source\repos\Interpreter\x64\Debug\Skeleton.exe
